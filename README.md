@@ -5,7 +5,7 @@
 - Ask me about `Python` frameworks for backend development, as well as Python frameworks and libraries for data science. `React`, `Node` and `TypeScript` for frontend development.
 - GraphQL and REST API development.
 - AWS cloud services.
-- More about me in [yeisonandreylice.github.io/portfolio/](https://yeisonandreylice.github.io/portfolio/)
+- More about me in [yeisonandreylice.github.io/portfolio/](https://yeison-liscano.github.io/portfolio/)
 
 <h2 align="center">My Skill Set</h2>
 <table><tr><td valign="top" width="25%">
@@ -62,13 +62,13 @@
 
 <div align="center">
 
-<a href="https://twitter.com/YeisonAndreyLC" target="_blank">
+<a href="https://twitter.com/yeison__liscano" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px; " />
 </a>
-<a href="https://dev.to/yeisonandreylice" target="_blank">
+<a href="https://dev.to/yeison-liscano" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px; " />
 </a>
-<a href="https://linkedin.com/in/yeison-andrey-lice" target="_blank">
+<a href="https://linkedin.com/in/yeison-liscano" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; " />
 </a>
 <a href="https://gitlab.com/yliscanoatfluid" target="_blank">
@@ -80,31 +80,31 @@
 <div align="center" style="display: flex;flex-direction: column;align-items: center;justify-content: center;">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=YeisonAndreyLiCe&show_icons=true&theme=github_dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=yeison-liscano&show_icons=true&theme=github_dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=YeisonAndreyLiCe&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=yeison-liscano&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=YeisonAndreyLiCe&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yeison-liscano&show_icons=true" />
 </picture>
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YeisonAndreyLiCe&layout=compact&hide=jupyter%20notebook&theme=github_dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yeison-liscano&layout=compact&hide=jupyter%20notebook&theme=github_dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YeisonAndreyLiCe&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yeison-liscano&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=YeisonAndreyLiCe&show_icons=true>" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yeison-liscano&show_icons=true>" />
 </picture>
 </div>
 <br/>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=YeisonAndreyLiCe&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=yeison-liscano&&style=flat-square" align="center" />
 </div>
 
 <hr />
