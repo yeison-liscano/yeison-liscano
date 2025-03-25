@@ -5,7 +5,7 @@
 - Ask me about `Python` frameworks for backend development, as well as Python frameworks and libraries for data science. `React`, `Node` and `TypeScript` for frontend development.
 - GraphQL and REST API development.
 - AWS cloud services.
-- More about me in [yeisonandreylice.github.io/portfolio/](https://yeison-liscano.github.io/portfolio/)
+- More about me in https://yeison-liscano.github.io/portfolio/
 
 <h2 align="center">My Skill Set</h2>
 <table><tr><td valign="top" width="25%">
